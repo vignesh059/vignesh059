@@ -49,7 +49,7 @@ Results-driven Software Engineer with a strong foundation in full-stack developm
 ## 🏢 Professional Experience
 
 ### **ServiceNow Intern** | Technical Hub
-**May 2025 – Present**
+**May 2025 – May 2026**
 - Configured ServiceNow ITSM modules (Incident, Problem, Change, Service Catalog) using Agile workflows, reducing manual ticket resolution effort
 - Developed application components in ServiceNow Studio including tables, forms, client scripts, and REST API integrations
 - Improved overall system functionality through comprehensive module implementation
