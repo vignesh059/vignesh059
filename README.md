@@ -4,7 +4,7 @@
 
 I build practical, user-focused software using **JavaScript, Python, Java, REST APIs, databases, cloud platforms, and AI/ML technologies**. My work spans full-stack application development, local LLM and RAG systems, secure API design, deployment automation, and ServiceNow application development.
 
-- 🎓 B.Tech student at **Aditya College of Engineering and Technology** — CGPA: **8.51**
+- 🎓 B.Tech student at **Aditya College of Engineering and Technology** — CGPA: **8.52**
 - 💼 Former ServiceNow Intern at **Technical Hub**
 - 🧩 Interested in scalable backend systems, AI-powered products, cloud deployment, and automation
 - 📍 Based in India
